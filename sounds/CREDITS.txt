@@ -1,0 +1,18 @@
+All sounds are CC0 (public domain).
+
+From Freesound.org:
+- door.mp3      "door metal big heavy close kinda slam thud" by kyles — https://freesound.org/s/406197/
+- steps.mp3     "Indoor Footsteps" by WakuWakuWakuWaku — https://freesound.org/s/366111/
+- heart.mp3     "Single Heartbeat Clean" by Lunardrive — https://freesound.org/s/22440/
+- breath.mp3    "Heavy Breathing" by Under7dude — https://freesound.org/s/163383/
+- knock.mp3     "Door knocking (Angry)" by Macif — https://freesound.org/s/194365/
+- static.mp3    "continuous static" by Jace — https://freesound.org/s/35291/
+- creak.mp3     "Long Metal Creak" by LoafDV — https://freesound.org/s/238289/
+- scream.mp3    "Demonic Woman Scream" by nick121087 — https://freesound.org/s/333832/
+- powerdown.mp3 "Power Down" by peepholecircus — https://freesound.org/s/169994/
+
+From OpenGameArt.org:
+- switch, cam, fan, bell: "100 CC0 SFX" by rubberduck — https://opengameart.org/content/100-cc0-sfx
+- hit, hitlow, sting, flash: "Horror Hit Soundpack 1" by psychhead_ — https://opengameart.org/content/horror-hit-soundpack-1
+
+The files in old/ were used before and are no longer in the game.
