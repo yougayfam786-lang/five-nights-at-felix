@@ -1,0 +1,4 @@
+voices/felix_*.m4a, voices/door.m4a — your own recordings of Felix.
+voices/phone/*.m4a — the phone guy, made with Piper (https://github.com/OHF-Voice/piper1-gpl) using the
+  "ryan" voice from https://huggingface.co/rhasspy/piper-voices. The voice was trained on the
+  RyanSpeech dataset (CC BY-NC-SA 4.0), so keep the game free / non-commercial.
