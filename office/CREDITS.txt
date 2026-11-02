@@ -1,0 +1,4 @@
+Office images:
+- office_bg.jpg = your own office picture
+- door.jpg = "Repeating Steel Door Texture.png" by ORIGAMEDIGITAL, Wikimedia Commons, CC0 (public domain) —
+  https://commons.wikimedia.org/wiki/File:Repeating_Steel_Door_Texture.png
